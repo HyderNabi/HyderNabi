@@ -2,7 +2,7 @@
 - 👀 I’m interested in [A-Z]*[a-z]*[0-9]*.
 - 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on 1's and 0's.
-- 📫 How to reach me ...<link href = "127.0.0.1"></link>
+- 📫 How to reach me <link href = "127.0.0.1"></link>
 
 <!---
 HyderNabi/HyderNabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
