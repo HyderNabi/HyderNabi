@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HyderNabi
-- 👀 I’m interested in [A-Z]*[a-z]*[0-9]*.
-- 🌱 I’m currently learning AWS.
+- 👀 I’m interested in /[a-zA-Z0-9]*/gm
+- 🌱 I’m currently learning Amazon Web Services.
 - 💞️ I’m looking to collaborate on 1's and 0's.
 - 📫 How to reach me 127.0.0.1
 
